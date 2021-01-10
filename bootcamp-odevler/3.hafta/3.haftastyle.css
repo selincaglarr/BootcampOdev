@@ -1,0 +1,12 @@
+/* td:hover{
+    color: aliceblue;
+    background-color: green;
+
+} */
+tbody tr:hover{
+    color: aliceblue;
+    background-color: green;
+
+}
+
+
